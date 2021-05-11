@@ -1,5 +1,5 @@
-# Docker Compose Build 
+# Docker Compose Publish 
 
-This action build your docker images thru a docker-compose.yaml file
+This action publish your docker images into dockerhub repository
 
 by ChimpWizards
